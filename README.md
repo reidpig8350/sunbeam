@@ -1,21 +1,19 @@
 # sunbeam
 
 
-存網存站
-
 [SUNBEAM.Studio](https://www.facebook.com/sunbeamstudio.co "SUNBEAM.Studio")
 
 
 服務項目：
 
 
-▪ 商業攝影｜ Photography
+* 商業攝影｜ Photography
 
 
-▪ 視覺設計｜ Visual Design
+* 視覺設計｜ Visual Design
 
 
-▪ 數位行銷、廣告投放｜ Digital Marketing
+* 數位行銷、廣告投放｜ Digital Marketing
 
 
 
